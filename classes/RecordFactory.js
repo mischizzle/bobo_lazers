@@ -39,7 +39,6 @@ RecordFactory.prototype.create = function (record) {
   }
 };
 
-
 RecordFactory.prototype.loadTags = function (tagRefs) {
   var self = this;
 
