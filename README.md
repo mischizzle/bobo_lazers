@@ -1,4 +1,6 @@
 bobo_lazers
 ===========
 
-code for doing the things.
+to run:
+
+    node test.js
