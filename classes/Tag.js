@@ -6,6 +6,7 @@ function Tag(id, name, tags) {
     this.init(id, name, tags);
 }
 Tag.prototype = new Record();
+
 Tag.prototype.toString = function() {
     return this.name;
 };
